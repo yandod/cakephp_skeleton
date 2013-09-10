@@ -1,0 +1,3 @@
+[submodule "vagrant-cookbooks/omusubi"]
+	path = vagrant-cookbooks/omusubi
+	url = git@github.com:yandod/omusubi.git
